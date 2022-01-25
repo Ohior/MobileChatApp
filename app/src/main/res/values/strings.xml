@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="user_image">user image</string>
+    <string name="name">name</string>
+    <string name="log_out">Log out</string>
+    <string name="type_of_message">type of message</string>
+    <string name="send_image">send image</string>
+    <string name="ohiorenua">Ohiorenua</string>
+</resources>
