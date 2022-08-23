@@ -1,2 +1,3 @@
-# MobileChatApp_skeletal
+# MobileChatApp
+
 A basic exeample for building a mobile application
